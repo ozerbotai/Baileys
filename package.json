@@ -1,6 +1,6 @@
 {
-  "name": "baileys",
-  "version": "6.7.9",
+  "name": "@ozerbotai/baileys",
+  "version": "6.7.9-ozer",
   "description": "WhatsApp API",
   "keywords": [
     "whatsapp",
@@ -12,12 +12,13 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/WhiskeySockets/Baileys",
+  "homepage": "https://github.com/ozerbotai/Baileys",
   "repository": {
-    "url": "git@github.com:WhiskeySockets/Baileys.git"
+    "type": "git",
+    "url": "git+https://github.com/ozerbotai/Baileys.git"
   },
   "license": "MIT",
-  "author": "Adhiraj Singh",
+  "author": "Adhiraj Singh & Ozer",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
